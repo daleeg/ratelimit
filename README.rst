@@ -7,7 +7,7 @@ ratelimit
 
 .. code-block:: shell
 
-   pip install ratelimit-py3
+   pip install dayu-ratelimit
 
 2. 示例
 ==========

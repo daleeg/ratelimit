@@ -39,7 +39,7 @@ classifiers = [
 ]
 
 setup(
-    name="pyratelimit",
+    name="dayu_ratelimit",
     version=read_version(),
     description="ratelimit",
     long_description="\n\n".join((read("README.rst"), read("CHANGELOG.md"))),
